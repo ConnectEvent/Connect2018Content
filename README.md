@@ -1,0 +1,2 @@
+# Connect2018Content
+This repo contains creative and technical content for Microsoft Connect(); 2017 event held November 15-17. Use this to advertize and execute your own ReConnect(); events in your local community!  The creative content can be used for any advertizing of your own local events. Please also take a look at the social guidance for information on how you can help amplify the live streamed event.  Technical content is also available and includes demo source code, presentations, and workshops.
